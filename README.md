@@ -43,7 +43,5 @@
 - Task 3 Visualization Notebook & HTML
 - Dataset (titanic.csv)
 
----
 
-## 🚀 Author
-- Your Name
+
